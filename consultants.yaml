@@ -1,0 +1,13 @@
+consultants:
+  franco:
+    name: ""
+    enabled: false
+    xeroname: ""
+    priceperhour: 0
+    taxtype: ""
+  gonzalo:
+    name: ""
+    enabled: false
+    xeroname: ""
+    priceperhour: 0
+    taxtype: ""
